@@ -6,7 +6,7 @@ A modern and responsive mini e-commerce web project built using HTML and CSS.
 
 * Responsive navigation menu
 * Animated background UI
-* Sign In & Register صفحات
+* Pages Sign In & Register 
 * Product page with:
 
   * Image display
