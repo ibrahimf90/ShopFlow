@@ -26,20 +26,6 @@ A modern and responsive mini e-commerce web project built using HTML and CSS.
 * HTML5
 * CSS3 (Flexbox & Grid)
 
-## 🎯 Project Purpose
-
-This project was created as a practice to improve front-end development skills and build a clean and modern user interface.
-
-## 📌 Future Improvements
-
-* Add JavaScript for:
-
-  * Form validation
-  * Cart functionality
-  * Dynamic price calculation
-* Connect to backend (PHP or Node.js)
-* Improve UI/UX with animations
-
 ## 👨‍💻 Author
 
 Ibrahim Fayyad
