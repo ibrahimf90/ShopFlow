@@ -1,8 +1,8 @@
-# 🛒 ShopFlow
+## ShopFlow
 
 A modern and responsive mini e-commerce web project.
 
-## 🚀 Features
+## Features
 
 * Responsive navigation menu
 * Animated background UI
@@ -19,18 +19,18 @@ A modern and responsive mini e-commerce web project.
   * Expiration Date
   * CVV validation (numbers only)
 
-## 🧱 Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3 (Flexbox & Grid)
 
-## 👨‍💻 Author
+## Author
 
 Ibrahim Fayyad
 📍 Germany
 💼 Full Stack Developer
 
-## 🔗 GitHub
+## GitHub
 
 https://github.com/ibrahimf90
 
