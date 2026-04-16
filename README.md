@@ -1,6 +1,6 @@
 # 🛒 ShopFlow
 
-A modern and responsive mini e-commerce web project built using HTML and CSS.
+A modern and responsive mini e-commerce web project.
 
 ## 🚀 Features
 
@@ -8,14 +8,12 @@ A modern and responsive mini e-commerce web project built using HTML and CSS.
 * Animated background UI
 * Pages Sign In & Register 
 * Product page with:
-
   * Image display
   * Size selection
   * Quantity selection
   * Price display
   * Add to Cart button
 * Payment form:
-
   * Card Number
   * Card Holder Name
   * Expiration Date
